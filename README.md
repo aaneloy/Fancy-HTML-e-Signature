@@ -1,4 +1,6 @@
 # Fancy-HTML-e-Signature
+![Author](https://img.shields.io/badge/author-aaneloy-blue)
+
 Weekend stuffs: Finally making a proper email signature for outlook and Gmail using the HTML
 
 ![s](preview.PNG)
